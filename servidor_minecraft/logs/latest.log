@@ -615,3 +615,59 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Dec2024 05:19:24.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Abelptyy: Set own game mode to Survival Mode]
 [11Dec2024 05:29:25.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Abelptyy: Set own game mode to Creative Mode]
 [11Dec2024 05:30:22.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Abelptyy: Set own game mode to Survival Mode]
+[11Dec2024 05:44:32.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Abelptyy: Set own game mode to Creative Mode]
+[11Dec2024 05:45:05.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Abelptyy has made the advancement [Where Is The Stone Pen?]
+[11Dec2024 05:45:26.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Abelptyy: Set own game mode to Survival Mode]
+[11Dec2024 05:45:59.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Abelptyy: Set own game mode to Creative Mode]
+[11Dec2024 05:46:50.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Abelptyy has reached the goal [A Small Cemetery]
+[11Dec2024 05:48:03.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Abelptyy was killed
+[11Dec2024 05:48:03.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Abelptyy: Killed Abelptyy]
+[11Dec2024 05:48:03.901] [Server thread/INFO] [tombstone/]: The player Abelptyy has successfully been saved
+[11Dec2024 05:48:10.703] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=326, y=153, z=-533} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[11Dec2024 05:48:10.704] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=322, y=153, z=-533} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[11Dec2024 05:48:30.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Abelptyy: Teleported Abelptyy to -143.500000, 122.500000, 211.500000]
+[11Dec2024 05:48:59.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Abelptyy: Teleported Abelptyy to 371.500000, 152.500000, -572.500000]
+[11Dec2024 05:49:00.064] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=326, y=153, z=-533} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[11Dec2024 05:49:00.065] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=322, y=153, z=-533} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[11Dec2024 05:49:39.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Abelptyy: Set own game mode to Survival Mode]
+[11Dec2024 05:50:46.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[11Dec2024 05:50:46.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Dec2024 05:50:46.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Dec2024 05:50:46.498] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Abelptyy lost connection: Disconnected
+[11Dec2024 05:50:46.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Abelptyy left the game
+[11Dec2024 05:50:46.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Dec2024 05:50:46.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Dec2024 05:50:47.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[11Dec2024 05:50:47.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[11Dec2024 05:50:47.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[11Dec2024 05:50:47.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[11Dec2024 05:50:47.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[11Dec2024 05:50:47.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[11Dec2024 05:50:47.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[11Dec2024 05:50:47.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[11Dec2024 05:50:47.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[11Dec2024 05:50:47.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[11Dec2024 05:50:47.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11Dec2024 05:50:47.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[11Dec2024 05:50:47.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[11Dec2024 05:50:47.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[11Dec2024 05:50:47.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[11Dec2024 05:50:47.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11Dec2024 05:50:47.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Dec2024 05:50:47.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[11Dec2024 05:50:47.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[11Dec2024 05:50:47.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[11Dec2024 05:50:47.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[11Dec2024 05:50:47.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[11Dec2024 05:50:47.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[11Dec2024 05:50:47.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[11Dec2024 05:50:47.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[11Dec2024 05:50:47.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[11Dec2024 05:50:47.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[11Dec2024 05:50:47.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Dec2024 05:50:47.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[11Dec2024 05:50:47.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[11Dec2024 05:50:47.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[11Dec2024 05:50:47.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[11Dec2024 05:50:47.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Dec2024 05:50:47.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
